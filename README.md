@@ -36,7 +36,7 @@ This project includes:
 
 ---
 
-## 🗂 Folder Structure
+
 
 
 
